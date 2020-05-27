@@ -178,7 +178,8 @@ def create_shelf_tool(tool_name, tool_label, tool_script, tool_type='python', ic
                 tool_name, tool_type))
         return None
 
-    return shelves.newTool(name=tool_name, label=tool_label, script=tool_script, icon=icon, help=help, language=language)
+    return shelves.newTool(
+        name=tool_name, label=tool_label, script=tool_script, icon=icon, help=help, language=language)
 
 
 def get_current_frame():
