@@ -1,0 +1,7 @@
+tpDcc.dccs.houdini.ui.window module
+===================================
+
+.. automodule:: tpDcc.dccs.houdini.ui.window
+   :members:
+   :undoc-members:
+   :show-inheritance:

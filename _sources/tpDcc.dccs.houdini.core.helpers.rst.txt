@@ -1,0 +1,7 @@
+tpDcc.dccs.houdini.core.helpers module
+======================================
+
+.. automodule:: tpDcc.dccs.houdini.core.helpers
+   :members:
+   :undoc-members:
+   :show-inheritance:

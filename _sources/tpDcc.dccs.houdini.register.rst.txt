@@ -1,0 +1,7 @@
+tpDcc.dccs.houdini.register module
+==================================
+
+.. automodule:: tpDcc.dccs.houdini.register
+   :members:
+   :undoc-members:
+   :show-inheritance:

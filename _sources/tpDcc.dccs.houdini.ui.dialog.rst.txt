@@ -1,0 +1,7 @@
+tpDcc.dccs.houdini.ui.dialog module
+===================================
+
+.. automodule:: tpDcc.dccs.houdini.ui.dialog
+   :members:
+   :undoc-members:
+   :show-inheritance:

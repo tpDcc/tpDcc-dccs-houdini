@@ -1,0 +1,28 @@
+tpDcc.dccs.houdini package
+==========================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   tpDcc.dccs.houdini.core
+   tpDcc.dccs.houdini.ui
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   tpDcc.dccs.houdini.loader
+   tpDcc.dccs.houdini.register
+
+Module contents
+---------------
+
+.. automodule:: tpDcc.dccs.houdini
+   :members:
+   :undoc-members:
+   :show-inheritance:

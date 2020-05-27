@@ -1,0 +1,7 @@
+tpDcc.dccs.houdini.core.shelf module
+====================================
+
+.. automodule:: tpDcc.dccs.houdini.core.shelf
+   :members:
+   :undoc-members:
+   :show-inheritance:
